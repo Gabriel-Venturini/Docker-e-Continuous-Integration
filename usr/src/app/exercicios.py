@@ -59,8 +59,6 @@ def podeVotar(anoNasc:int):
         return 'O valor precisa ser do tipo inteiro.'
         
     
-    
-
 if __name__ == '__main__':
     # ex1
     cota = cotacao(saldo=15000)
